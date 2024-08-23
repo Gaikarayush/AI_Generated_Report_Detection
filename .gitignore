@@ -1,0 +1,7 @@
+# Exclude virtual environment directories
+env/
+venv/
+.env/
+
+# Exclude specific virtual environment files
+*.env
